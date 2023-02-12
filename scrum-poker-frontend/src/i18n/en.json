@@ -1,0 +1,32 @@
+{
+    "header": {
+    },
+    "footer": {
+    },
+    "login_page": {
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "submit": "Submit"
+    },
+    "story_list_page": {
+        "story_list": "Story List",
+        "story": "Story",
+        "implement_chat_feature": "implement chat feature",
+        "add_kyc_ui_to_back_office": "add_kyc_ui_to_back_office",
+        "create_fx_market_stop_order": "create FX market stop order"
+    },
+    "story_pointing_page": {
+        "no_idea": "no_idea",
+        "resign": "resign"
+    },
+    "story_detail_page": {
+        "story": "Story",
+        "point_estimate": "Point Estimate",
+        "submit": "Submit"
+    },
+    "point_result_page": {
+        "point_result": "Point Result",
+        "return_btn": "Return to Story List"
+    }
+}

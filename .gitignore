@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/scrum-poker-frontend/node_modules
+/scrum-poker-frontend/.pnp
+.pnp.js
+
+# testing
+/scrum-poker-frontend/coverage
+
+# production
+/scrum-poker-frontend/build
+
+# misc
+/scrum-poker-frontend.DS_Store
+/scrum-poker-frontend.env.local
+/scrum-poker-frontend.env.development.local
+/scrum-poker-frontend.env.test.local
+/scrum-poker-frontend.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/cmder
+/cmder/*
+./mysql
+./mysql/*
+*.zip

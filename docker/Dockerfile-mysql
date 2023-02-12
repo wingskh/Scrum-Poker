@@ -1,0 +1,4 @@
+FROM mysql:8.0
+
+# special setting for CSIS
+COPY ./src/db_change/initialize_mysql_scheme.sql /docker-entrypoint-initdb.d/initialize_mysql_scheme.sql

@@ -1,0 +1,38 @@
+.story-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: fit-content;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  background: rgba(0,0,0,.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6); border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.story-box h2 {
+  margin: 0 0 30px;
+  padding: 0;
+  color: #33D7FF;
+  text-align: center;
+}
+.story-box .point-table {
+  border: 0;
+  text-align: left;
+}
+.story-box .point-table th,
+.story-box .point-table td {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.story-box .point-table .err-msg {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.story-box .return-btn {
+  margin-top: 30px;
+}

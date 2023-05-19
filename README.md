@@ -4,6 +4,7 @@
  - WebSocket
  - Docker
  - Redis
+ - MySQL
 
 # Preparation
 1) Docker Container with MySQL & Redis

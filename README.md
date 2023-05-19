@@ -1,14 +1,4 @@
-# Further Update
-1) Change Login method to OAuthuse JWT token instead of email so backend can valid the user for every api call
-2) UI
-3) Add default choice for Point Estimate select tag 
-4) Add :hover css in Story List
-5) Update error message in i18n format
-6) Need to update checkIfLogin in App.tsx
-7) Update WebSocket Structure
-8) Add Comment in Java Spring Boot
-9) Save the final point to MySQL (already created field)
-
+React (Typescript) + Java Spring Boot + WebSocket + Docker + Redis
 # Preparation
 1) Docker Container with MySQL & Redis
 ```
@@ -45,3 +35,14 @@ developer6@gmail.com     123456     Developer 5     Developer
 4) All users should be redirected to point estimate page
    Then, submit all point estimate for all accounts
 5) After all accounts submitted their point estimate, all users will be redirected to the result page
+6) 
+# Further Update
+1) Change Login method to OAuthuse JWT token instead of email so backend can valid the user for every api call
+2) UI
+3) Add default choice for Point Estimate select tag 
+4) Add :hover css in Story List
+5) Update error message in i18n format
+6) Need to update checkIfLogin in App.tsx
+7) Update WebSocket Structure
+8) Add Comment in Java Spring Boot
+9) Save the final point to MySQL (already created field)

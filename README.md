@@ -1,4 +1,10 @@
-React (Typescript) + Java Spring Boot + WebSocket + Docker + Redis
+# Used Techniques
+ - React (Typescript)
+ - Java Spring Boot 
+ - WebSocket
+ - Docker
+ - Redis
+
 # Preparation
 1) Docker Container with MySQL & Redis
 ```

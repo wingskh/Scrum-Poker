@@ -1,7 +1,7 @@
 UNLOCK TABLES;
-DROP DATABASE IF EXISTS `scrum_poker`;
-CREATE DATABASE IF NOT EXISTS `scrum_poker`;
-USE `scrum_poker`;
+DROP DATABASE IF EXISTS `voting_system`;
+CREATE DATABASE IF NOT EXISTS `voting_system`;
+USE `voting_system`;
 
 DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (

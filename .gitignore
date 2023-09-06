@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /cmder
-/cmder/*
-./mysql
-./mysql/*
+/mysql
+/.idea
 *.zip
